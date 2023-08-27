@@ -1,2 +1,4 @@
 Linux
 Docker
+Git
+Ansible
